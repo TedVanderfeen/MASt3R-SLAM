@@ -1,5 +1,5 @@
 #!/bin/bash
-dataset_path="datasets/eth3d/train/"
+dataset_path="datasets/eth3d"
 
 datasets=(
     plant_1
